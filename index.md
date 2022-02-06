@@ -13,7 +13,7 @@ A minimal Jekyll theme with Bootstrap for creating workshop websites.
 
 Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
 Host it for free on GitHub with gh-pages, and share!
-Fun!
+Fun! dd
 
 *See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
 
