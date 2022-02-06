@@ -22,7 +22,7 @@ However, for more advanced uses you will want Git, Ruby, and Jekyll installed on
 
 ## Local Jekyll Setup [very optional]
 
-### Install Git
+### Install Gi
 
 [Git](https://git-scm.com/) is a [free](https://www.gnu.org/philosophy/free-sw.en.html), [distributed](https://en.wikipedia.org/wiki/Distributed_version_control) version control system. [GitHub](https://github.com/) is a Git repository hosting service, a place to store and sync your work in the cloud--your Jekyll and GitHub Pages projects will be under Git version control, so you need the software on your machine. 
 
